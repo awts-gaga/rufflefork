@@ -75,6 +75,20 @@
       "author": "Custom",
       "authorLink": "https://www.Example.com",
       "type": "Game"
+    },
+    {
+      "location": "swfs/Madness Project Nexus Classic.swf",
+      "title": "Project Nexus",
+      "author": "Custom",
+      "authorLink": "https://www.Example.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/HappyWheels.swf",
+      "title": "Happy Wheels",
+      "author": "Custom",
+      "authorLink": "https://www.Example.com",
+      "type": "Game"
     }
   ]
 }
