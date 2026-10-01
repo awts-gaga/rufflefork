@@ -68,6 +68,13 @@
       "author": "Tom Fulp",
       "authorLink": "https://www.newgrounds.com",
       "type": "Game"
+    },
+    {
+      "location": "swfs/n.swf",
+      "title": "N",
+      "author": "Custom",
+      "authorLink": "https://www.Example.com",
+      "type": "Game"
     }
   ]
 }
